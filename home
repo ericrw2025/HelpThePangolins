@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/bebas" type="text/css"/>
+	<link href="https://fonts.googleapis.com/css?family=Staatliches" rel="stylesheet">
+	<title>Illegal Trafficking of Pangolins</title>
+	<style type="text/css">
+		* {
+            margin: 0;
+            padding: 0;
+        }
+        .imgbox {
+            display: grid;
+            height: 100%;
+            position: relative;
+  			text-align: center;
+        }
+        .center-fit {
+            max-width: 100%;
+            max-height: 100vh;
+            margin: auto;
+            opacity: 0.805;
+            width:100%;
+        }
+        .centered-title {
+  			position: absolute;
+  			top: 50%;
+  			left: 50%;
+  			transform: translate(-50%, -50%);
+  			color: #FFFFFF;
+  			font-size: 30px;
+  			
+		}
+		.firstTextDiv{
+		margin: auto;
+  		width: 75%;
+  		padding: 10px;
+		}
+		h1{
+			font-family: 'BebasNeueRegular'; 
+			letter-spacing: 0.2em;
+			font-size: 50px;
+		}
+		#starth1 {
+			font-family: 'Staatliches', cursive;
+		}
+		#Title {
+			border: 15px solid white;
+		}
+		h3{
+			font-size: 23px;
+		}
+		/* Navbar container */
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  font-family: Arial;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* The dropdown container */
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 16px; 
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+	</style>
+</head>
+<body>
+<div class="navbar">
+  <a href="ericrw2025.github.com/ericrw2025/HelpThePangolins/home">Home</a>
+  <a href="ericrw2025.github.com/ericrw2025/HelpThePangolins/about">About Pangolin's</a>
+  <div class="dropdown">
+    <button class="dropbtn">Threats to Pangolin's 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Poaching</a>
+      <a href="#">The Consumer Market</a>
+    </div>
+  </div> 
+</div>
+<div class="imgbox">
+	<img class="center-fit" src="https://news.nationalgeographic.com/content/dam/news/2016/09/27/pangolins-cites/pangolin-cites-03.adapt.1900.1.jpg">
+	<div class="centered-title">
+		<h1 id="Title">
+			<b>
+				Illegal Trafficking of Pangolins
+			</b>
+		</h1>
+		<br>
+		<br>
+		<br>
+		<h3>
+			<b>
+				By Eric Wu, 1/15/2018
+			</b>
+		</h3>
+	</div>
+</div>
+<div class="firstTextDiv">
+	<h1 id="starth1">
+		<br>
+		Pangolin's are currently the most illegally trafficked animal in the world.
+		<br>
+		<br>
+		But yet, they are unknown to most people around the globe.
+		<br>
+		<br>
+		But what are they and what is it about them that makes it so valuable to illegal poachers, and how are scientists trying to stop it from being part of the illegal trade of wildlife?
+	</h1>
+</div>
+</body>
+</html>
