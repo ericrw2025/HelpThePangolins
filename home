@@ -119,12 +119,22 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
-	</style>
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+</style>
 </head>
 <body>
 <div class="navbar">
-  <a href="ericrw2025.github.com/ericrw2025/HelpThePangolins/home">Home</a>
-  <a href="ericrw2025.github.com/ericrw2025/HelpThePangolins/about">About Pangolin's</a>
+  <a href="ericrw2025.github.com/home">Home</a>
+  <a href="ericrw2025.github.com/about">About Pangolin's</a>
   <div class="dropdown">
     <button class="dropbtn">Threats to Pangolin's 
       <i class="fa fa-caret-down"></i>
@@ -163,7 +173,9 @@
 		<br>
 		<br>
 		But what are they and what is it about them that makes it so valuable to illegal poachers, and how are scientists trying to stop it from being part of the illegal trade of wildlife?
+		<br>
 	</h1>
 </div>
+<button type="button" onclick="ericrw2025.github.io/about" class="button">About Pangolin's</button>
 </body>
 </html>
